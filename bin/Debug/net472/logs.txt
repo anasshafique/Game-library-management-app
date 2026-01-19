@@ -1,0 +1,328 @@
+[LOG - 14:16:02] File test_players.json is empty. Returning empty list.
+[LOG - 14:16:03] ERROR: Malformed JSON in test_players.json: The JSON value could not be converted to System.Collections.Generic.List`1[CET2007.Player]. Path: $ | LineNumber: 0 | BytePositionInLine: 1.
+[LOG - 14:16:03] File nonexistent.json does not exist. Returning empty list.
+[LOG - 14:16:03] Successfully saved 2 items to test_players.json
+[LOG - 14:16:03] Successfully loaded 2 items from test_players.json
+[LOG - 14:16:03] Successfully saved 2 items to test_players.json
+[LOG - 14:16:03] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:03] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 14:16:03] Updated high score for game 'Minecraft' to 100
+[LOG - 14:16:03] Successfully saved 1 items to test_players.json
+[LOG - 14:16:03] Successfully loaded 1 items from test_players.json
+[LOG - 14:16:03] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 14:16:03] Added 3.25 hours to game 'Minecraft'. Total: 8.75
+[LOG - 14:16:03] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 14:16:03] Updated high score for game 'Minecraft' to 100
+[LOG - 14:16:03] Updated high score for game 'Minecraft' to 100
+[LOG - 14:16:03] Updated high score for game 'Minecraft' to 150
+[LOG - 14:16:03] Factory created new player: Player1 with ID 1
+[LOG - 14:16:03] Factory created new player: Player2 with ID 2
+[LOG - 14:16:03] Factory created player: TestPlayer with ID 100
+[LOG - 14:16:03] Factory created player: Player1 with ID 100
+[LOG - 14:16:03] Factory created new player: Player2 with ID 101
+[LOG - 14:16:03] Factory created player with game: TestPlayer (ID: 1, Game: Minecraft, Hours: 10.5, Score: 100)
+[LOG - 14:16:03] Factory created player with stats: TestPlayer (ID: 1, Hours: 10.5, Score: 100)
+[LOG - 14:16:03] Factory created new player: Player1 with ID 1
+[LOG - 14:16:03] Factory created new player: Player2 with ID 2
+[LOG - 14:16:03] Factory created new player: NewPlayer with ID 1
+[LOG - 14:16:03] File players.json does not exist. Returning empty list.
+[LOG - 14:16:03] PlayerManager initialized with 0 players
+[LOG - 14:16:03] Binary search for player ID: 999
+[LOG - 14:16:04] Player with ID 999 not found using binary search
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Factory created player: TestPlayer with ID 100
+[LOG - 14:16:04] Linear search for player ID: 100
+[LOG - 14:16:04] Player with ID 100 not found
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Linear search for player ID: 999
+[LOG - 14:16:04] Player with ID 999 not found
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Searching for player by username: 
+[LOG - 14:16:04] Invalid username provided for search
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Searching for player by username: NonExistent
+[LOG - 14:16:04] Player 'NonExistent' not found
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Searching for player by username: 
+[LOG - 14:16:04] Invalid username provided for search
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Sorting players by hours using Bubble Sort
+[LOG - 14:16:04] Bubble sort completed
+[LOG - 14:16:04] File players.json does not exist. Returning empty list.
+[LOG - 14:16:04] PlayerManager initialized with 0 players
+[LOG - 14:16:04] Sorting players by score using LINQ
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Added game 'Fortnite' to player TestPlayer
+[LOG - 14:16:04] Added game 'Valorant' to player TestPlayer
+[LOG - 14:16:04] Updated high score for game 'Minecraft' to 100
+[LOG - 14:16:04] Updated high score for game 'Fortnite' to 250
+[LOG - 14:16:04] Updated high score for game 'Valorant' to 150
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Added game 'Fortnite' to player TestPlayer
+[LOG - 14:16:04] Added game 'Valorant' to player TestPlayer
+[LOG - 14:16:04] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 14:16:04] Added 5.25 hours to game 'Fortnite'. Total: 5.25
+[LOG - 14:16:04] Added 3.75 hours to game 'Valorant'. Total: 3.75
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Updated high score for game 'Minecraft' to 100
+[LOG - 14:16:04] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:16:04] Updated high score for game 'Minecraft' to 100
+[LOG - 14:16:04] Updated high score for game 'Minecraft' to 150
+[LOG - 14:19:18] File test_players.json is empty. Returning empty list.
+[LOG - 14:19:18] ERROR: Malformed JSON in test_players.json: The JSON value could not be converted to System.Collections.Generic.List`1[CET2007.Player]. Path: $ | LineNumber: 0 | BytePositionInLine: 1.
+[LOG - 14:19:18] File nonexistent.json does not exist. Returning empty list.
+[LOG - 14:19:19] Successfully saved 2 items to test_players.json
+[LOG - 14:19:19] Successfully loaded 2 items from test_players.json
+[LOG - 14:19:19] Successfully saved 2 items to test_players.json
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 100
+[LOG - 14:19:19] Successfully saved 1 items to test_players.json
+[LOG - 14:19:19] Successfully loaded 1 items from test_players.json
+[LOG - 14:19:19] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 14:19:19] Added 3.25 hours to game 'Minecraft'. Total: 8.75
+[LOG - 14:19:19] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 100
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 100
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 150
+[LOG - 14:19:19] Factory created new player: Player1 with ID 1
+[LOG - 14:19:19] Factory created new player: Player2 with ID 2
+[LOG - 14:19:19] Factory created player: TestPlayer with ID 100
+[LOG - 14:19:19] Factory created player: Player1 with ID 100
+[LOG - 14:19:19] Factory created new player: Player2 with ID 101
+[LOG - 14:19:19] Factory created player with game: TestPlayer (ID: 1, Game: Minecraft, Hours: 10.5, Score: 100)
+[LOG - 14:19:19] Factory created player with stats: TestPlayer (ID: 1, Hours: 10.5, Score: 100)
+[LOG - 14:19:19] Factory created new player: Player1 with ID 1
+[LOG - 14:19:19] Factory created new player: Player2 with ID 2
+[LOG - 14:19:19] Factory created new player: NewPlayer with ID 1
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Binary search for player ID: 999
+[LOG - 14:19:19] Player with ID 999 not found using binary search
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Factory created player: TestPlayer with ID 100
+[LOG - 14:19:19] Linear search for player ID: 100
+[LOG - 14:19:19] Player with ID 100 not found
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Linear search for player ID: 999
+[LOG - 14:19:19] Player with ID 999 not found
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Searching for player by username: 
+[LOG - 14:19:19] Invalid username provided for search
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Searching for player by username: NonExistent
+[LOG - 14:19:19] Player 'NonExistent' not found
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Searching for player by username: 
+[LOG - 14:19:19] Invalid username provided for search
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Sorting players by hours using Bubble Sort
+[LOG - 14:19:19] Bubble sort completed
+[LOG - 14:19:19] File players.json does not exist. Returning empty list.
+[LOG - 14:19:19] PlayerManager initialized with 0 players
+[LOG - 14:19:19] Sorting players by score using LINQ
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Added game 'Fortnite' to player TestPlayer
+[LOG - 14:19:19] Added game 'Valorant' to player TestPlayer
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 100
+[LOG - 14:19:19] Updated high score for game 'Fortnite' to 250
+[LOG - 14:19:19] Updated high score for game 'Valorant' to 150
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Added game 'Fortnite' to player TestPlayer
+[LOG - 14:19:19] Added game 'Valorant' to player TestPlayer
+[LOG - 14:19:19] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 14:19:19] Added 5.25 hours to game 'Fortnite'. Total: 5.25
+[LOG - 14:19:19] Added 3.75 hours to game 'Valorant'. Total: 3.75
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 100
+[LOG - 14:19:19] Added game 'Minecraft' to player TestPlayer
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 100
+[LOG - 14:19:19] Updated high score for game 'Minecraft' to 150
+[LOG - 17:55:13] File test_players.json is empty. Returning empty list.
+[LOG - 17:55:13] ERROR: Malformed JSON in test_players.json: The JSON value could not be converted to System.Collections.Generic.List`1[CET2007.Player]. Path: $ | LineNumber: 0 | BytePositionInLine: 1.
+[LOG - 17:55:13] File nonexistent.json does not exist. Returning empty list.
+[LOG - 17:55:14] Successfully saved 2 items to test_players.json
+[LOG - 17:55:14] Successfully loaded 2 items from test_players.json
+[LOG - 17:55:14] Successfully saved 2 items to test_players.json
+[LOG - 17:55:14] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:14] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 17:55:14] Updated high score for game 'Minecraft' to 100
+[LOG - 17:55:14] Successfully saved 1 items to test_players.json
+[LOG - 17:55:14] Successfully loaded 1 items from test_players.json
+[LOG - 17:55:14] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 17:55:14] Added 3.25 hours to game 'Minecraft'. Total: 8.75
+[LOG - 17:55:14] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 17:55:14] Updated high score for game 'Minecraft' to 100
+[LOG - 17:55:14] Updated high score for game 'Minecraft' to 100
+[LOG - 17:55:14] Updated high score for game 'Minecraft' to 150
+[LOG - 17:55:14] Factory created new player: Player1 with ID 1
+[LOG - 17:55:14] Factory created new player: Player2 with ID 2
+[LOG - 17:55:14] Factory created player: TestPlayer with ID 100
+[LOG - 17:55:14] Factory created player: Player1 with ID 100
+[LOG - 17:55:14] Factory created new player: Player2 with ID 101
+[LOG - 17:55:14] Factory created player with game: TestPlayer (ID: 1, Game: Minecraft, Hours: 10.5, Score: 100)
+[LOG - 17:55:14] Factory created player with stats: TestPlayer (ID: 1, Hours: 10.5, Score: 100)
+[LOG - 17:55:14] Factory created new player: Player1 with ID 1
+[LOG - 17:55:14] Factory created new player: Player2 with ID 2
+[LOG - 17:55:14] Factory created new player: NewPlayer with ID 1
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Binary search for player ID: 999
+[LOG - 17:55:14] Player with ID 999 not found using binary search
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Factory created player: TestPlayer with ID 100
+[LOG - 17:55:14] Linear search for player ID: 100
+[LOG - 17:55:14] Player with ID 100 not found
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Linear search for player ID: 999
+[LOG - 17:55:14] Player with ID 999 not found
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Searching for player by username: 
+[LOG - 17:55:14] Invalid username provided for search
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Searching for player by username: NonExistent
+[LOG - 17:55:14] Player 'NonExistent' not found
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Searching for player by username: 
+[LOG - 17:55:14] Invalid username provided for search
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Sorting players by hours using Bubble Sort
+[LOG - 17:55:14] Bubble sort completed
+[LOG - 17:55:14] File players.json does not exist. Returning empty list.
+[LOG - 17:55:14] PlayerManager initialized with 0 players
+[LOG - 17:55:14] Sorting players by score using LINQ
+[LOG - 17:55:14] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:14] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:14] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:14] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 17:55:15] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:15] Added game 'Fortnite' to player TestPlayer
+[LOG - 17:55:15] Added game 'Valorant' to player TestPlayer
+[LOG - 17:55:15] Updated high score for game 'Minecraft' to 100
+[LOG - 17:55:15] Updated high score for game 'Fortnite' to 250
+[LOG - 17:55:15] Updated high score for game 'Valorant' to 150
+[LOG - 17:55:15] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:15] Added game 'Fortnite' to player TestPlayer
+[LOG - 17:55:15] Added game 'Valorant' to player TestPlayer
+[LOG - 17:55:15] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 17:55:15] Added 5.25 hours to game 'Fortnite'. Total: 5.25
+[LOG - 17:55:15] Added 3.75 hours to game 'Valorant'. Total: 3.75
+[LOG - 17:55:15] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:15] Updated high score for game 'Minecraft' to 100
+[LOG - 17:55:15] Added game 'Minecraft' to player TestPlayer
+[LOG - 17:55:15] Updated high score for game 'Minecraft' to 100
+[LOG - 17:55:15] Updated high score for game 'Minecraft' to 150
+[LOG - 11:24:10] File test_players.json is empty. Returning empty list.
+[LOG - 11:24:10] ERROR: Malformed JSON in test_players.json: The JSON value could not be converted to System.Collections.Generic.List`1[CET2007.Player]. Path: $ | LineNumber: 0 | BytePositionInLine: 1.
+[LOG - 11:24:10] File nonexistent.json does not exist. Returning empty list.
+[LOG - 11:24:10] Successfully saved 2 items to test_players.json
+[LOG - 11:24:10] Successfully loaded 2 items from test_players.json
+[LOG - 11:24:10] Successfully saved 2 items to test_players.json
+[LOG - 11:24:10] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:10] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 11:24:10] Updated high score for game 'Minecraft' to 100
+[LOG - 11:24:10] Successfully saved 1 items to test_players.json
+[LOG - 11:24:10] Successfully loaded 1 items from test_players.json
+[LOG - 11:24:10] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 11:24:10] Added 3.25 hours to game 'Minecraft'. Total: 8.75
+[LOG - 11:24:10] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 11:24:10] Updated high score for game 'Minecraft' to 100
+[LOG - 11:24:10] Updated high score for game 'Minecraft' to 100
+[LOG - 11:24:10] Updated high score for game 'Minecraft' to 150
+[LOG - 11:24:10] Factory created new player: Player1 with ID 1
+[LOG - 11:24:10] Factory created new player: Player2 with ID 2
+[LOG - 11:24:10] Factory created player: TestPlayer with ID 100
+[LOG - 11:24:10] Factory created player: Player1 with ID 100
+[LOG - 11:24:10] Factory created new player: Player2 with ID 101
+[LOG - 11:24:10] Factory created player with game: TestPlayer (ID: 1, Game: Minecraft, Hours: 10.5, Score: 100)
+[LOG - 11:24:11] Factory created player with stats: TestPlayer (ID: 1, Hours: 10.5, Score: 100)
+[LOG - 11:24:11] Factory created new player: Player1 with ID 1
+[LOG - 11:24:11] Factory created new player: Player2 with ID 2
+[LOG - 11:24:11] Factory created new player: NewPlayer with ID 1
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Binary search for player ID: 999
+[LOG - 11:24:11] Player with ID 999 not found using binary search
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Factory created player: TestPlayer with ID 100
+[LOG - 11:24:11] Linear search for player ID: 100
+[LOG - 11:24:11] Player with ID 100 not found
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Linear search for player ID: 999
+[LOG - 11:24:11] Player with ID 999 not found
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Searching for player by username: 
+[LOG - 11:24:11] Invalid username provided for search
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Searching for player by username: NonExistent
+[LOG - 11:24:11] Player 'NonExistent' not found
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Searching for player by username: 
+[LOG - 11:24:11] Invalid username provided for search
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Sorting players by hours using Bubble Sort
+[LOG - 11:24:11] Bubble sort completed
+[LOG - 11:24:11] File players.json does not exist. Returning empty list.
+[LOG - 11:24:11] PlayerManager initialized with 0 players
+[LOG - 11:24:11] Sorting players by score using LINQ
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Added 5.5 hours to game 'Minecraft'. Total: 5.5
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Added game 'Fortnite' to player TestPlayer
+[LOG - 11:24:11] Added game 'Valorant' to player TestPlayer
+[LOG - 11:24:11] Updated high score for game 'Minecraft' to 100
+[LOG - 11:24:11] Updated high score for game 'Fortnite' to 250
+[LOG - 11:24:11] Updated high score for game 'Valorant' to 150
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Added game 'Fortnite' to player TestPlayer
+[LOG - 11:24:11] Added game 'Valorant' to player TestPlayer
+[LOG - 11:24:11] Added 10.5 hours to game 'Minecraft'. Total: 10.5
+[LOG - 11:24:11] Added 5.25 hours to game 'Fortnite'. Total: 5.25
+[LOG - 11:24:11] Added 3.75 hours to game 'Valorant'. Total: 3.75
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Updated high score for game 'Minecraft' to 100
+[LOG - 11:24:11] Added game 'Minecraft' to player TestPlayer
+[LOG - 11:24:11] Updated high score for game 'Minecraft' to 100
+[LOG - 11:24:11] Updated high score for game 'Minecraft' to 150
