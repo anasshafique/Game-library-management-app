@@ -1,0 +1,135 @@
+[
+  {
+    "Games": [
+      {
+        "GameName": "Hades",
+        "HoursPlayed": 25,
+        "HighScore": 4000
+      }
+    ],
+    "TotalHoursPlayed": 25,
+    "HighestScore": 4000,
+    "PlayerID": 12,
+    "UserName": "anas"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 3,
+    "UserName": "poper"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 88,
+    "UserName": "ayan"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 98,
+    "UserName": "jafar"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 66,
+    "UserName": "uday"
+  },
+  {
+    "Games": [
+      {
+        "GameName": "Stardew Valley",
+        "HoursPlayed": 8,
+        "HighScore": 730
+      },
+      {
+        "GameName": "Hollow Knight",
+        "HoursPlayed": 16,
+        "HighScore": 0
+      },
+      {
+        "GameName": "Celeste",
+        "HoursPlayed": 5,
+        "HighScore": 900
+      }
+    ],
+    "TotalHoursPlayed": 29,
+    "HighestScore": 900,
+    "PlayerID": 72,
+    "UserName": "John"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 73,
+    "UserName": "Jacob"
+  },
+  {
+    "Games": [
+      {
+        "GameName": "Minecraft",
+        "HoursPlayed": 100,
+        "HighScore": 9000
+      }
+    ],
+    "TotalHoursPlayed": 100,
+    "HighestScore": 9000,
+    "PlayerID": 33,
+    "UserName": "Blakey"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 34,
+    "UserName": "ali"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 7777,
+    "UserName": "lion"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 8988,
+    "UserName": "kitty"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 2000,
+    "UserName": "mr bean"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 4444,
+    "UserName": "bird"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 768767,
+    "UserName": "cow"
+  },
+  {
+    "Games": [],
+    "TotalHoursPlayed": 0,
+    "HighestScore": 0,
+    "PlayerID": 676767,
+    "UserName": "lenovo"
+  }
+]

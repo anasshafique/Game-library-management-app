@@ -1,0 +1,336 @@
+[LOG - 01:21:50] player details entererd successfully.
+[LOG - 01:21:50] player details Saved successfully.
+[LOG - 01:23:12] player details Saved successfully.
+[LOG - 18:12:05] player details Saved successfully.
+[LOG - 18:15:46] player details Saved successfully.
+[LOG - 01:03:44] player details Saved successfully.
+[LOG - 23:03:30] player details Saved successfully.
+[LOG - 12:03:47] player details Saved successfully.
+[LOG - 12:23:55] Successfully loaded 6 items from players.json
+[LOG - 12:23:55] PlayerManager initialized with 6 players
+[LOG - 12:23:55] Application started
+[LOG - 12:24:10] Linear search for player ID: 72
+[LOG - 12:24:10] Player found at index 5
+[LOG - 12:24:29] Linear search for player ID: 73
+[LOG - 12:24:29] Player with ID 73 not found
+[LOG - 12:24:29] Factory created player: Jacob with ID 73
+[LOG - 12:24:54] Successfully saved 7 items to players.json
+[LOG - 12:25:04] Displayed 7 players
+[LOG - 12:25:22] Linear search for player ID: 88
+[LOG - 12:25:22] Player found at index 2
+[LOG - 12:25:43] Binary search for player ID: 72
+[LOG - 12:25:43] Player found using binary search
+[LOG - 12:25:54] Searching for player by username: jafar
+[LOG - 12:25:54] Player 'jafar' found
+[LOG - 12:26:03] Searching for player by username: jkl
+[LOG - 12:26:03] Player 'jkl' not found
+[LOG - 12:26:16] Linear search for player ID: 78
+[LOG - 12:26:16] Player with ID 78 not found
+[LOG - 12:26:42] Linear search for player ID: 72
+[LOG - 12:26:42] Player found at index 5
+[LOG - 12:27:25] Added 14 hours to player John. Total: 14
+[LOG - 12:27:30] Updated high score for player John to 888
+[LOG - 12:27:30] Successfully saved 7 items to players.json
+[LOG - 12:27:38] Displayed 7 players
+[LOG - 12:27:57] Sorting players by score using LINQ
+[LOG - 12:27:57] Generated top 5 scores report
+[LOG - 12:28:18] Successfully saved 7 items to players.json
+[LOG - 12:28:23] Successfully saved 7 items to players.json
+[LOG - 12:28:23] Application exited by user
+[LOG - 12:46:42] Successfully loaded 7 items from players.json
+[LOG - 12:46:42] PlayerManager initialized with 7 players
+[LOG - 12:46:42] Application started
+[LOG - 12:47:39] Successfully loaded 7 items from players.json
+[LOG - 12:47:39] PlayerManager initialized with 7 players
+[LOG - 12:47:40] Application started
+[LOG - 12:47:44] Unexpected error in main loop: Sequence contains no elements
+[LOG - 12:48:23] Linear search for player ID: 12
+[LOG - 12:48:23] Player found at index 0
+[LOG - 12:48:51] Linear search for player ID: 53
+[LOG - 12:48:51] Player with ID 53 not found
+[LOG - 12:48:51] Factory created player: john with ID 53
+[LOG - 12:49:27] ERROR: Unexpected error when saving to players.json: Sequence contains no elements
+[LOG - 12:49:27] Error in SaveData: Failed to save data to players.json
+[LOG - 12:49:51] Unexpected error in main loop: Sequence contains no elements
+[LOG - 12:51:31] Successfully loaded 7 items from players.json
+[LOG - 12:51:31] PlayerManager initialized with 7 players
+[LOG - 12:51:32] Application started
+[LOG - 12:51:51] Linear search for player ID: 12
+[LOG - 12:51:51] Player found at index 0
+[LOG - 12:51:56] Successfully saved 7 items to players.json
+[LOG - 12:52:01] Displayed 7 players
+[LOG - 12:52:18] Displayed 7 players
+[LOG - 12:52:24] Linear search for player ID: 12
+[LOG - 12:52:24] Player found at index 0
+[LOG - 12:52:51] Displayed 7 players
+[LOG - 12:53:02] Linear search for player ID: 72
+[LOG - 12:53:02] Player found at index 5
+[LOG - 12:53:42] Added game 'Stardew Valley' to player John
+[LOG - 12:53:52] Added 8 hours to game 'Stardew Valley'. Total: 8
+[LOG - 12:54:03] Updated high score for game 'Stardew Valley' to 730
+[LOG - 12:54:03] Successfully saved 7 items to players.json
+[LOG - 12:54:12] Linear search for player ID: 72
+[LOG - 12:54:12] Player found at index 5
+[LOG - 12:54:25] Added game 'Hollow Knight' to player John
+[LOG - 12:54:29] Added 16 hours to game 'Hollow Knight'. Total: 16
+[LOG - 12:54:36] Successfully saved 7 items to players.json
+[LOG - 12:54:44] Displayed 7 players
+[LOG - 12:55:36] Sorting players by score using LINQ
+[LOG - 12:55:36] Generated top 3 scores report
+[LOG - 12:55:53] Linear search for player ID: 72
+[LOG - 12:55:53] Player found at index 5
+[LOG - 12:56:09] Added game 'Celeste' to player John
+[LOG - 12:56:17] Added 5 hours to game 'Celeste'. Total: 5
+[LOG - 12:56:20] Updated high score for game 'Celeste' to 900
+[LOG - 12:56:20] Successfully saved 7 items to players.json
+[LOG - 12:56:29] Linear search for player ID: 72
+[LOG - 12:56:29] Player found at index 5
+[LOG - 12:56:48] Sorting players by score using LINQ
+[LOG - 12:56:48] Generated top 5 scores report
+[LOG - 12:56:57] Displayed 7 players
+[LOG - 12:57:10] Sorting players by hours using Bubble Sort
+[LOG - 12:57:10] Bubble sort completed
+[LOG - 12:57:10] Generated top 5 most active players report
+[LOG - 12:57:27] Linear search for player ID: 12
+[LOG - 12:57:27] Player found at index 0
+[LOG - 12:57:30] Added game 'Hades' to player anas
+[LOG - 12:57:32] Added 5 hours to game 'Hades'. Total: 5
+[LOG - 12:57:41] Updated high score for game 'Hades' to 1027
+[LOG - 12:57:41] Successfully saved 7 items to players.json
+[LOG - 12:57:48] Sorting players by score using LINQ
+[LOG - 12:57:48] Generated top 5 scores report
+[LOG - 12:57:56] Successfully saved 7 items to players.json
+[LOG - 12:58:02] Displayed 7 players
+[LOG - 12:58:18] Searching for player by username: jacob
+[LOG - 12:58:18] Player 'jacob' found
+[LOG - 12:58:29] Linear search for player ID: 72
+[LOG - 12:58:29] Player found at index 5
+[LOG - 12:58:42] Invalid menu choice: 
+[LOG - 12:59:08] Invalid menu choice: mvfmh
+[LOG - 12:59:19] Successfully saved 7 items to players.json
+[LOG - 12:59:19] Application exited by user
+[LOG - 14:16:58] Successfully loaded 7 items from players.json
+[LOG - 14:16:58] PlayerManager initialized with 7 players
+[LOG - 14:16:59] Application started
+[LOG - 14:17:00] Invalid menu choice: 
+[LOG - 14:17:02] Invalid menu choice: 
+[LOG - 14:17:05] Successfully saved 7 items to players.json
+[LOG - 14:17:05] Application exited by user
+[LOG - 14:18:23] Successfully loaded 7 items from players.json
+[LOG - 14:18:23] PlayerManager initialized with 7 players
+[LOG - 14:18:23] Application started
+[LOG - 14:18:29] Successfully loaded 7 items from players.json
+[LOG - 14:18:29] PlayerManager initialized with 7 players
+[LOG - 14:18:29] Application started
+[LOG - 14:18:52] Successfully loaded 7 items from players.json
+[LOG - 14:18:52] PlayerManager initialized with 7 players
+[LOG - 14:18:53] Application started
+[LOG - 15:57:36] Successfully loaded 7 items from players.json
+[LOG - 15:57:36] PlayerManager initialized with 7 players
+[LOG - 15:57:37] Application started
+[LOG - 17:50:23] Successfully loaded 7 items from players.json
+[LOG - 17:50:23] PlayerManager initialized with 7 players
+[LOG - 17:50:24] Application started
+[LOG - 17:50:29] Displayed 7 players
+[LOG - 17:50:46] Linear search for player ID: 33
+[LOG - 17:50:46] Player with ID 33 not found
+[LOG - 17:50:46] Factory created player: Blakey with ID 33
+[LOG - 17:50:52] Successfully saved 8 items to players.json
+[LOG - 17:50:58] Linear search for player ID: 33
+[LOG - 17:50:58] Player found at index 7
+[LOG - 17:51:11] Added game 'Minecraft' to player Blakey
+[LOG - 17:51:15] Added 13 hours to game 'Minecraft'. Total: 13
+[LOG - 17:51:22] Successfully saved 8 items to players.json
+[LOG - 17:51:32] Linear search for player ID: 33
+[LOG - 17:51:32] Player found at index 7
+[LOG - 17:51:38] Displayed 8 players
+[LOG - 17:52:00] Linear search for player ID: 12
+[LOG - 17:52:00] Player found at index 0
+[LOG - 17:52:10] Binary search for player ID: 72
+[LOG - 17:52:10] Player found using binary search
+[LOG - 17:52:22] Searching for player by username: blakey
+[LOG - 17:52:22] Player 'blakey' found
+[LOG - 17:52:36] Sorting players by score using LINQ
+[LOG - 17:52:36] Generated top 5 scores report
+[LOG - 17:52:55] Sorting players by hours using Bubble Sort
+[LOG - 17:52:55] Bubble sort completed
+[LOG - 17:52:55] Generated top 5 most active players report
+[LOG - 17:53:18] Linear search for player ID: 13
+[LOG - 17:53:18] Player with ID 13 not found
+[LOG - 17:53:25] Linear search for player ID: 33
+[LOG - 17:53:25] Player found at index 7
+[LOG - 17:53:54] Added 17 hours to game 'Minecraft'. Total: 30
+[LOG - 17:54:17] Updated high score for game 'Minecraft' to 833
+[LOG - 17:54:17] Successfully saved 8 items to players.json
+[LOG - 17:54:22] Displayed 8 players
+[LOG - 17:54:35] Sorting players by score using LINQ
+[LOG - 17:54:35] Generated top 5 scores report
+[LOG - 17:54:43] Sorting players by hours using Bubble Sort
+[LOG - 17:54:43] Bubble sort completed
+[LOG - 17:54:43] Generated top 5 most active players report
+[LOG - 17:54:53] Successfully saved 8 items to players.json
+[LOG - 17:54:57] Successfully saved 8 items to players.json
+[LOG - 17:54:57] Application exited by user
+[LOG - 07:05:35] Successfully loaded 8 items from players.json
+[LOG - 07:05:35] PlayerManager initialized with 8 players
+[LOG - 07:05:35] Application started
+[LOG - 07:05:43] Successfully saved 8 items to players.json
+[LOG - 07:06:06] Linear search for player ID: 34
+[LOG - 07:06:06] Player with ID 34 not found
+[LOG - 07:06:06] Factory created player: ali with ID 34
+[LOG - 07:06:36] Successfully saved 9 items to players.json
+[LOG - 07:06:42] Invalid menu choice: 
+[LOG - 07:40:04] Successfully loaded 9 items from players.json
+[LOG - 07:40:04] PlayerManager initialized with 9 players
+[LOG - 07:40:04] Application started
+[LOG - 07:42:37] Successfully saved 9 items to players.json
+[LOG - 07:42:55] Linear search for player ID: 34
+[LOG - 07:42:55] Player found at index 8
+[LOG - 07:43:27] Linear search for player ID: 938
+[LOG - 07:43:27] Player with ID 938 not found
+[LOG - 07:43:27] Factory created player: bobby with ID 938
+[LOG - 07:48:50] Successfully loaded 9 items from players.json
+[LOG - 07:48:50] PlayerManager initialized with 9 players
+[LOG - 07:48:50] Application started
+[LOG - 07:48:56] Displayed 9 players
+[LOG - 10:55:53] Successfully loaded 9 items from players.json
+[LOG - 10:55:53] PlayerManager initialized with 9 players
+[LOG - 10:55:53] Application started
+[LOG - 10:56:25] Linear search for player ID: 2999
+[LOG - 10:56:25] Player with ID 2999 not found
+[LOG - 10:56:25] Factory created player: tiger with ID 2999
+[LOG - 10:56:49] Successfully loaded 9 items from players.json
+[LOG - 10:56:49] PlayerManager initialized with 9 players
+[LOG - 10:56:49] Application started
+[LOG - 10:57:21] Successfully loaded 9 items from players.json
+[LOG - 10:57:22] PlayerManager initialized with 9 players
+[LOG - 10:57:22] Application started
+[LOG - 10:57:51] Linear search for player ID: 7777
+[LOG - 10:57:51] Player with ID 7777 not found
+[LOG - 10:57:51] Factory created player: lion with ID 7777
+[LOG - 10:57:56] Successfully saved 10 items to players.json
+[LOG - 10:58:03] Displayed 10 players
+[LOG - 10:58:37] Linear search for player ID: 44
+[LOG - 10:58:37] Player with ID 44 not found
+[LOG - 10:59:00] Successfully loaded 10 items from players.json
+[LOG - 10:59:00] PlayerManager initialized with 10 players
+[LOG - 10:59:00] Application started
+[LOG - 10:59:23] Successfully loaded 10 items from players.json
+[LOG - 10:59:23] PlayerManager initialized with 10 players
+[LOG - 10:59:23] Application started
+[LOG - 10:59:46] Linear search for player ID: 8988
+[LOG - 10:59:46] Player with ID 8988 not found
+[LOG - 10:59:46] Factory created player: kitty with ID 8988
+[LOG - 10:59:51] Successfully saved 11 items to players.json
+[LOG - 10:59:55] Displayed 11 players
+[LOG - 11:00:26] Binary search for player ID: 12
+[LOG - 11:00:26] Player found using binary search
+[LOG - 11:00:46] Linear search for player ID: 12
+[LOG - 11:00:46] Player found at index 0
+[LOG - 11:01:13] Successfully saved 11 items to players.json
+[LOG - 11:01:45] Linear search for player ID: 4
+[LOG - 11:01:45] Player with ID 4 not found
+[LOG - 11:01:48] Invalid menu choice: 
+[LOG - 11:01:51] Linear search for player ID: 12
+[LOG - 11:01:51] Player found at index 0
+[LOG - 11:02:53] Successfully loaded 11 items from players.json
+[LOG - 11:02:53] PlayerManager initialized with 11 players
+[LOG - 11:02:53] Application started
+[LOG - 11:03:19] Linear search for player ID: 2000
+[LOG - 11:03:19] Player with ID 2000 not found
+[LOG - 11:03:19] Factory created player: mr bean with ID 2000
+[LOG - 11:03:25] Successfully saved 12 items to players.json
+[LOG - 11:03:30] Displayed 12 players
+[LOG - 11:04:01] Linear search for player ID: 12
+[LOG - 11:04:01] Player found at index 0
+[LOG - 11:04:21] Linear search for player ID: 12
+[LOG - 11:04:21] Player found at index 0
+[LOG - 11:04:44] Added 10 hours to game 'Hades'. Total: 15
+[LOG - 11:04:56] Updated high score for game 'Hades' to 2000
+[LOG - 11:04:56] Successfully saved 12 items to players.json
+[LOG - 11:05:24] Sorting players by score using LINQ
+[LOG - 11:05:24] Generated top 5 scores report
+[LOG - 11:05:36] Sorting players by hours using Bubble Sort
+[LOG - 11:05:36] Bubble sort completed
+[LOG - 11:05:36] Generated top 5 most active players report
+[LOG - 11:06:00] Successfully saved 12 items to players.json
+[LOG - 11:06:09] Successfully saved 12 items to players.json
+[LOG - 11:06:09] Application exited by user
+[LOG - 11:12:00] Successfully loaded 12 items from players.json
+[LOG - 11:12:00] PlayerManager initialized with 12 players
+[LOG - 11:12:00] Application started
+[LOG - 11:12:30] Successfully loaded 12 items from players.json
+[LOG - 11:12:30] PlayerManager initialized with 12 players
+[LOG - 11:12:30] Application started
+[LOG - 11:12:47] Successfully loaded 12 items from players.json
+[LOG - 11:12:47] PlayerManager initialized with 12 players
+[LOG - 11:12:47] Application started
+[LOG - 11:13:34] Successfully loaded 12 items from players.json
+[LOG - 11:13:34] PlayerManager initialized with 12 players
+[LOG - 11:13:34] Application started
+[LOG - 11:13:39] Invalid menu choice: 11
+[LOG - 11:13:41] Invalid menu choice: 
+[LOG - 11:14:18] Linear search for player ID: 4444
+[LOG - 11:14:18] Player with ID 4444 not found
+[LOG - 11:14:18] Factory created player: bird with ID 4444
+[LOG - 11:14:25] Successfully saved 13 items to players.json
+[LOG - 11:14:56] Successfully loaded 13 items from players.json
+[LOG - 11:14:56] PlayerManager initialized with 13 players
+[LOG - 11:14:56] Application started
+[LOG - 11:15:35] Linear search for player ID: 768767
+[LOG - 11:15:35] Player with ID 768767 not found
+[LOG - 11:15:35] Factory created player: cow with ID 768767
+[LOG - 11:15:40] Successfully saved 14 items to players.json
+[LOG - 11:15:45] Displayed 14 players
+[LOG - 11:16:20] Linear search for player ID: 12
+[LOG - 11:16:20] Player found at index 0
+[LOG - 11:16:34] Linear search for player ID: 12
+[LOG - 11:16:34] Player found at index 0
+[LOG - 11:16:58] Added 5 hours to game 'Hades'. Total: 20
+[LOG - 11:17:03] Updated high score for game 'Hades' to 3000
+[LOG - 11:17:03] Successfully saved 14 items to players.json
+[LOG - 11:17:30] Sorting players by score using LINQ
+[LOG - 11:17:30] Generated top 5 scores report
+[LOG - 11:17:50] Sorting players by hours using Bubble Sort
+[LOG - 11:17:50] Bubble sort completed
+[LOG - 11:17:50] Generated top 5 most active players report
+[LOG - 11:18:39] Successfully loaded 14 items from players.json
+[LOG - 11:18:39] PlayerManager initialized with 14 players
+[LOG - 11:18:39] Application started
+[LOG - 11:19:20] Linear search for player ID: 676767
+[LOG - 11:19:20] Player with ID 676767 not found
+[LOG - 11:19:20] Factory created player: lenovo with ID 676767
+[LOG - 11:19:35] Successfully saved 15 items to players.json
+[LOG - 11:19:44] Displayed 15 players
+[LOG - 11:20:21] Linear search for player ID: 12
+[LOG - 11:20:21] Player found at index 0
+[LOG - 11:20:42] Linear search for player ID: 12
+[LOG - 11:20:42] Player found at index 0
+[LOG - 11:21:06] Added 5 hours to game 'Hades'. Total: 25
+[LOG - 11:21:13] Updated high score for game 'Hades' to 4000
+[LOG - 11:21:13] Successfully saved 15 items to players.json
+[LOG - 11:21:47] Sorting players by score using LINQ
+[LOG - 11:21:47] Generated top 5 scores report
+[LOG - 11:22:02] Sorting players by hours using Bubble Sort
+[LOG - 11:22:02] Bubble sort completed
+[LOG - 11:22:02] Generated top 5 most active players report
+[LOG - 11:22:17] Successfully saved 15 items to players.json
+[LOG - 11:22:20] Successfully saved 15 items to players.json
+[LOG - 11:22:20] Application exited by user
+[LOG - 19:08:51] Successfully loaded 15 items from players.json
+[LOG - 19:08:51] PlayerManager initialized with 15 players
+[LOG - 19:08:51] Application started
+[LOG - 20:54:21] Successfully loaded 15 items from players.json
+[LOG - 20:54:21] PlayerManager initialized with 15 players
+[LOG - 20:54:21] Application started
+[LOG - 20:54:36] Displayed 15 players
+[LOG - 20:55:43] Linear search for player ID: 33
+[LOG - 20:55:43] Player found at index 7
+[LOG - 20:56:08] Linear search for player ID: 33
+[LOG - 20:56:08] Player found at index 7
+[LOG - 20:56:36] Added 70 hours to game 'Minecraft'. Total: 100
+[LOG - 20:56:40] Updated high score for game 'Minecraft' to 9000
+[LOG - 20:56:40] Successfully saved 15 items to players.json
+[LOG - 20:56:46] Successfully saved 15 items to players.json
+[LOG - 20:56:51] Successfully saved 15 items to players.json
+[LOG - 20:56:51] Application exited by user
